@@ -1,5 +1,7 @@
 # pi-ollamacloud
 
+![Pi Package](https://img.shields.io/badge/pi-package-blue)
+
 Pi provider for Ollama Cloud.
 
 ## Install
