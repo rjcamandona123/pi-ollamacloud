@@ -6,7 +6,6 @@ Pi extension that registers Ollama Cloud as a provider automatically.
 
 - No terminal setup or `./bin/llm setup --default` needed.
 - Prioritizes the remote `beam` model (Ollama Cloud), with `gemma4:31b-cloud` and other free open-source cloud models as fallbacks.
-- Does not use `https://platform.reflection.ai`.
 
 ## Install
 
