@@ -1,3 +1,5 @@
+[![GitHub](https://img.shields.io/badge/GitHub-pi--ollamacloud-black?logo=github)](https://github.com/rjcamandona123/pi-ollamacloud)
+
 # pi-ollamacloud
 
 Pi extension that registers Ollama Cloud as a provider automatically.
