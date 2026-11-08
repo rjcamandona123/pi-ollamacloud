@@ -5,7 +5,7 @@ export default function (pi: any) {
     apiKey: "$OLLAMA_CLOUD_API_KEY",
     api: "openai-completions",
     models: [
-      { id: "beam", name: "Beam 501B (cloud)", reasoning: true, input: ["text"], cost: { input: 0, output: 0, cacheRead: 0, cacheWrite: 0 }, contextWindow: 128000, maxTokens: 16384 },
+      { id: "beam", name: "Beam 501B (cloud)", reasoning: true, input: ["text"], cost: { input: 0, output: 0, cacheRead: 0, cacheWrite: 0 }, contextWindow: 128000, maxTokens: 65536 },
       { id: "gemma4:31b-cloud", name: "Gemma 4 31B (free cloud)", reasoning: false, input: ["text"], cost: { input: 0, output: 0, cacheRead: 0, cacheWrite: 0 }, contextWindow: 128000, maxTokens: 16384 },
     ],
     oauth: {
