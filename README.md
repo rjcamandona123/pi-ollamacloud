@@ -1,6 +1,5 @@
 # pi-ollamacloud
 
-[![pi-ollamacloud](https://img.shields.io/badge/pi-package-blue)](https://github.com/rjcamandona123/pi-ollamacloud)
 
 Pi provider for Ollama Cloud.
 
