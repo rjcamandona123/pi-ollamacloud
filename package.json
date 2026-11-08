@@ -1,0 +1,12 @@
+{
+  "name": "pi-ollamacloud",
+  "version": "1.0.0",
+  "description": "Ollama Cloud provider extension for pi",
+  "type": "module",
+  "main": "index.ts",
+  "keywords": ["pi", "pi-package", "ollama"],
+  "license": "MIT",
+  "pi": {
+    "extensions": ["./index.ts"]
+  }
+}
