@@ -15,7 +15,7 @@ pi install git:https://github.com/rjcamandona123/pi-ollamacloud
 
 ## Configuration
 
-Set your API key via environment variable:
+Optional — set your API key via environment variable (if omitted, auth-required models may be unavailable):
 
 ```
 export OLLAMA_CLOUD_API_KEY=your_key
